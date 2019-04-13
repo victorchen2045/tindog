@@ -1,4 +1,1 @@
-# tindog
----
-permalink: /index.html
----
+TinDog Starting Files
