@@ -1,0 +1,4 @@
+# tindog
+---
+permalink: /index.html
+---
